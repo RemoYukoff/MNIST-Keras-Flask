@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+html {
+    background: teal;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    font-size: 15px;
+    background-color: rgb(39, 39, 39);
+    border: 2px solid black;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#canvas {
+    border: 8px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    background: white;
+}
